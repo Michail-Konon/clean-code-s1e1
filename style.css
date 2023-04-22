@@ -163,11 +163,11 @@ input,
   display: none;
 }
 
-.list-item.editing .task-input {
+.editing .task-input {
   display: inline-block;
   width: 224px;
 }
 
-.list-item.editing .task-label {
+.editing .task-label {
   display: none;
 }
